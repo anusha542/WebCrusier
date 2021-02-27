@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="footer.ascx.cs" Inherits="WebCrusier.footer" %>
+ <footer style="padding: 20px; background-color: #808080; font-size: 30px; margin-top: 100px; height: 20px;">Copyright@2021</footer>
